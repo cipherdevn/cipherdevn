@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80" role="img" aria-label="Cipher Dev">
+  <circle cx="40" cy="40" r="40" fill="#0B1020"/>
+  <circle cx="40" cy="40" r="36.5" fill="none" stroke="#22D3EE" stroke-opacity=".35" stroke-width="1.2"/>
+  <g transform="translate(0.85 11.2) scale(.9)">
+    <rect x="12" y="14" width="7" height="36" rx="1.5" fill="#F8FAFC"/>
+    <rect x="12" y="14" width="18" height="7" rx="1.5" fill="#F8FAFC"/>
+    <rect x="12" y="43" width="18" height="7" rx="1.5" fill="#F8FAFC"/>
+    <rect x="44" y="14" width="7" height="36" rx="1.5" fill="#F8FAFC"/>
+    <path d="M51 17.5 H57 A14.5 14.5 0 0 1 57 46.5 H51" fill="none" stroke="#F8FAFC" stroke-width="7"/>
+    <rect x="31.5" y="23.5" width="5.5" height="5.5" rx="1" fill="#22D3EE"/>
+    <rect x="35.25" y="29.25" width="5.5" height="5.5" rx="1" fill="#22D3EE"/>
+    <rect x="37.5" y="35" width="5.5" height="5.5" rx="1" fill="#8B5CF6"/>
+  </g>
+  <text x="104" y="53" font-family="Inter, 'Segoe UI', system-ui, sans-serif" font-size="34" font-weight="700" letter-spacing="5" fill="#0B1020">CIPHER <tspan fill="#8B5CF6">DEV</tspan></text>
+</svg>
